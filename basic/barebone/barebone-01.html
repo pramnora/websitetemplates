@@ -8,7 +8,7 @@
    DESCRIPTION:
    A simple 'basic' web page template file...; 
    which includes: 
-   - an internal CSS stylesheet controlling the look of multiple elements
+   - an internal CSS stylesheet controlling the look of multiple elements/including hypertext links
    - 'header/main/footer' sections;
      Allowing one to keep track of when the page was both: created/updated...
    - a meta tag stating when the page was first created
@@ -19,6 +19,12 @@
   <meta name="page-created" content="Wed 21 Aug 2024 08:24 PM GMT">
   <title>Title text</title>
   <style>
+   /* links */
+   a:link{color:blue;text-decoration:none;}
+   a:active{color:orange;}
+   a:hover{color:red;text-decoration:underline;}
+   a:visited{color:purple;}
+   /* other */
    html{margin:1cm;}
    body{font-family:arial,verdana,sans-serif;}
    header{text-align:center;}
