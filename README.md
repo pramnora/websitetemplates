@@ -12,7 +12,7 @@ so, please, very kindly, help yourself.
 
 You may see written on the sites a notice such as:    
 
-site design: paulramnoracoder@yahoo.com  
+> site design: paulramnoracoder@yahoo.com  
 
 ...optionally, you can either choose to leave that bit of code in there;      
 so, that I can gain some credit for having originally *written/designed* it;      
