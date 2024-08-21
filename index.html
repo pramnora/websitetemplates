@@ -41,11 +41,54 @@
 
   <!--link to internal stylesheet/start--> 
   <style>
-   
-   header,footer{
+
+   /* links */
+
+   a:link{color:blue;text-decoration:none;}
+   a:active{color:orange;}
+   a:hover{color:red;background-color:yellow;text-decoration:underline;}
+   a:visited{color:purple;}
+
+   html{
+    margin:1cm;
+   }
+
+   header{
+    padding:25px;
+    background-color:black;
+    color:white;
+    text-align:center;
+   } 
+
+   footer{
+    padding:25px;
+    background-color:silver;
+    color:gray;
     text-align:center;
    } 
    
+   header,footer{
+    width:50%;
+    margin:auto;
+    padding:25px;
+    text-align:center;
+    border-radius:10px;
+   } 
+
+   ul li{
+    padding:3px;
+    background-color:rgba(128,128,0,0.2);
+   }
+   
+   /* ID's */
+
+   #idCopyrightMessage{
+    font-weight:bold;
+    background-color:black;
+    color:white;
+    border-radius:10px;
+   }
+
    /* classes */
 
    .clsDateTimeStamp{
@@ -66,21 +109,27 @@
     <br>FREE Web Site Templates
    </h1>
   </header>
-
-  <hr>
   
   <main>
    <h2>Barebone</h2>
    <ul>
-    <li><a href="basic\barebone\barebone-00.html">basic\barebone\barebone-00.html</a><li>
-    <li><a href="basic\barebone\barebone-01.html">basic\barebone\barebone-01.html</a><li>
+    <li><a href="basic\barebone\barebone-00.html">basic\barebone\barebone-00.html</a></li>         
+    <li><a href="basic\barebone\barebone-01.html">basic\barebone\barebone-01.html</a></li>
+
    </ul>
   </main>
  
-  <hr>
-
-  <footer>
+  <footer>  
    <p>
+    URL:
+    <a href="https://prg-websitetemplates.netlfy.app">
+     https://prg-websitetemplates.netlify.app 
+    </a>
+    <br>
+    <span id="idCopyrightMessage">
+     &copy;2024, Mr. Paul Ramnora./All rights reserved.     
+    </span>
+    <br>
     Document last modified:
     <br>
     <span class="clsDateTimeStamp">
