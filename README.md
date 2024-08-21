@@ -12,13 +12,13 @@ so, please, very kindly, help yourself.
 
 You may see written on the sites a notice such as:    
 
-> site design: paulramnoracoder@yahoo.com  
+> Site design: paulramnoracoder@yahoo.com  
 
 ...optionally, you can either choose to leave that bit of code in there;      
 so, that I can gain some credit for having originally *written/designed* it;      
 or, alternatively, you may wish to *delete* that message completely;    
 either way is perfectly fine with me. -Thanks!  
 
-(**NOTE**: All of these web site templates are entirely FREE of any copyright.)
+-(**NOTE**: All of these web site templates are entirely FREE of any copyright.)-
 
 
