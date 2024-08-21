@@ -13,7 +13,8 @@
    - a meta tag stating when the page was first created
    - an internal CSS stylesheet controlling the look of the 'date/time' stamp.
    - a footer based Document last modified: 'date/time' stamp
-  -->
+   - a copyright message 
+ -->
   <head>
   <meta charset="utf-8">
   <meta name="page-created" content="Wed 21 Aug 2024 08:24 PM GMT">
@@ -24,6 +25,7 @@
    header{text-align:center;}
    footer{text-align:right;}
    .clsDateTimeStamp{font-style:italic;color:red;}
+   #idCopyrightMessage{font-weight:bold;background-color:black;color:white;}
   </style>
  </head>
  <body>
@@ -40,6 +42,10 @@
   <hr>
   <footer>
    <p>
+    <span id="idCopyrightMessage"> 
+     &copy, 2024, YourName./All rights reserved.
+    </span>
+    <br>
     Document last modified:
     <br>
     <span class="clsDateTimeStamp">
