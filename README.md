@@ -11,8 +11,11 @@ for visitors of my GitHub pages to both *download/use*...;
 so, please, very kindly, help yourself.  
 
 You may see written on the sites a notice such as:    
+
 site design: paulramnoracoder@yahoo.com  
-...optionally, you can either choose to leave that bit of code in there;    
-so, that I myself can gain some credit for having written/designed it;    
-or, alternatively, then, feel free to delete it. -Thanks!  
+
+...optionally, you can either choose to leave that bit of code in there;      
+so, that I can gain some credit for having originally *written/designed* it;      
+or, alternatively, you may wish to *delete* that message completely;    
+either way is perfectly fine with me. -Thanks! ;-)   
 
