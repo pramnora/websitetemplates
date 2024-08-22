@@ -9,7 +9,9 @@ In order to 'view/interact' with this GitHub repo. 'source code' go to:
 
 ----
 
-These are some FREE web site templates   
+## USER INSTRUCTIONS
+
+These are some copyright free/FREE web site templates   
 for visitors of my GitHub pages to both *download/use*...;     
 so, please, very kindly, help yourself.  
 
@@ -21,7 +23,5 @@ You may see written on the sites a notice such as:
 so, that I can gain some credit for having originally *written/designed* it;      
 or, alternatively, you may wish to *delete* that message completely;    
 either way is perfectly fine with me. -Thanks!  
-
--(**NOTE**: All of these web site templates are entirely FREE of any copyright.)-
 
 
