@@ -17,7 +17,7 @@ These are some copyright free/FREE web site templates
 for visitors of my GitHub pages to both *download/use*...;     
 so, please, very kindly, help yourself.  
 
-You may see written on the web page/web sites a notice such as:    
+You may see written on the web pages/web sites a notice such as:    
 
 > Site design: paulramnoracoder@yahoo.com  
 
