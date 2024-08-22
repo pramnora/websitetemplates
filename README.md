@@ -1,7 +1,9 @@
 # websitetemplates  
 FREE Web Site Templates  
 
-In order to 'view/interact' with this GitHub repo. 'source code' go to:  
+In order to 'view/interact' with this GitHub repo. 'source code'...;  
+then, please, go to the following link address:  
+  
 - https://prg-websitetemplates.netlify.app  
 
 **Created**: *Wed 21 Aug 2024 08:04 PM GMT*  
