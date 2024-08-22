@@ -1,0 +1,108 @@
+/* 
+ Stylesheet for...
+ https://yourname.netlify.app
+ 
+ Created: Tue Aug 20 2024 23:35 PM GMT
+ Updated: Tue Aug 20 2024 23:35 PM GMT 
+*/
+
+/* links */
+
+a:link{color:blue;text-decoration:none;}
+a:hover{color:red;background-color:white;}
+a:visited{color:purple;}
+a:active{color:orange;} 
+
+nav a:link{color:blue;background-color:silver;text-decoration:none;border:3px solid black;padding:5px;}
+nav a:hover{color:red;background-color:yellow;border:3px solid red;}
+nav a:visited{color:purple;}
+nav a:active{color:orange;} 
+
+html{
+ margin:1cm;
+ background-color:maroon;
+ /*background:linear-gradient(yellow,green,orange);*/
+}
+
+body{
+ padding:10px];
+ background-color:white;
+ color:black;
+ border-radius:10px;
+}
+
+nav{
+ text-align:center;
+}
+
+header{
+ padding:25px;
+ width:50%;
+ margin:auto;
+ background-color:maroon;
+/* background:linear-gradient(yellow,green,orange);*/
+ color:white;
+ text-align:center;
+ border-radius:10px;
+}
+
+main{
+ 
+}
+
+footer{
+ border-radius:10px;
+ width:50%;
+ margin:auto;
+ padding:25px;
+ background-color:silver;
+ color:gray;
+ text-align:center;
+}
+
+/* ID's */
+
+#idCopyrightMessage{
+ padding:10px;
+ background-color:black;
+ color:white;
+ font-weight:bold;
+ border-radius:10px;
+}
+
+#idWebSiteText{
+ color:yellow;
+}
+
+#idYourNameText{
+ padding:10px;
+ color:white;
+ background-color:black;
+ border-radius:10px;
+}
+
+
+#idSiteDesign{
+ text-align:center;
+}
+
+/* classes */
+
+.clsPara{
+ text-indent:1cm; 
+}
+
+.clsNote{
+ width:50%;
+ margin:auto;
+ padding:10px;
+ background-color:rgba(255,255,0,0.1);
+ color:black; 
+ text-align:center;
+}
+
+.clsDateTimeStamp{
+ font-style:italic; 
+ color:red;
+ background-color:white;
+}
