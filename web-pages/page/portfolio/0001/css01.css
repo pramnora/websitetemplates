@@ -1,0 +1,115 @@
+/*
+ CSS Stylesheet created for...
+ YourName YourSubjectName Portfolio
+
+ Created: Mon 02 Sep 2024 14:03 PM GMT
+ Updated: Mon 02 Sep 2024 14:03 PM GMT
+*/
+
+/* links */
+
+a:link{color:blue;text-decoration:none;}
+a:hover{color:red;text-decoration:underline;font-weight:bold;}
+a:active{color:orange;}
+a:visited{color:purple;}
+
+html{
+ margin:1cm;
+ background-color:black;
+}
+
+body{
+ border-radius:10px;
+ padding:10px;
+ background-color:white;
+ color:black;
+ font-family:arial,verdana,sans-serif;
+}
+
+h1 span{
+ border:1px solid black;
+}
+
+h2{
+ text-indent:1cm;
+}
+
+h3 span{
+ padding:10px;
+ background-color:white;
+ color:maroon;
+}
+
+nav, header, footer{
+ text-align:center;
+}
+
+/* ID's */
+
+#idWordPortfolio{
+ border:1px solid yellow;
+ background-color:black;
+ color:white;
+}
+
+#idWordPortfolio::before{
+ content: "~~~";
+}
+
+#idWordPortfolio::after{
+ content: "~~~";
+}
+
+#idDivPhoto{
+ text-align:center;
+}
+
+#idNASL{
+ background-color:yellow;
+ color:maroon;
+}
+
+#idArtworks{
+ margin:10px;
+ border-radius:10px;
+ padding:10px;
+ background-color:silver;
+ color:black;
+}
+
+#idDivImages{
+ text-align:center;
+}
+
+#idPhotos{
+ text-align:center;
+ background-color:black;
+}
+
+#idIDoDifferentTypesOfArt{
+ padding:10px;
+ background-color:white;
+ color:black;
+ font-weight:bold;
+}
+
+#idCopyrightMessage{
+ border-radius:10px;
+ background-color:black;
+ color:white;
+}
+
+/* classes */
+
+img.clsPic{
+ border:10px solid black;
+}
+
+.clsPara{
+ text-indent:1cm;
+}
+
+.clsDateTimeStamp{
+ color:red;
+ font-style:italic;
+}
