@@ -60,6 +60,10 @@ nav, header, footer{
 
 /* --------------------------------------------------- */
 
+#idMenu{
+ background-color:silver;
+}
+
 #idWordPortfolio{
  border:1px solid yellow;
  background-color:black;
