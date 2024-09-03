@@ -101,7 +101,7 @@ ul{
 
 #idDivPhotos1{
  text-align:left;
- background-color:white;
+ background-color:yellow;
  /* not sure why this rule doesn't appear...? */
  border-radius:10px;
 }
