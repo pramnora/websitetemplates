@@ -3,7 +3,7 @@
  YourName YourSubjectName Portfolio
 
  Created: Mon 02 Sep 2024 14:03 PM GMT
- Updated: Tue 03 Sep 2024 19:46 PM GMT
+ Updated: Tue 03 Sep 2024 18:07 PM GMT
 */
 
 /* --------------------------------------------------- */
@@ -40,6 +40,7 @@ h1{
 } 
 
 h1 span{
+ padding:10px;
  border:1px solid black;
 }
 
@@ -133,7 +134,7 @@ ul{
 /* --------------------------------------------------- */
 
 img.clsPic{
- border:10px solid black;
+ border:1px solid black;
 }
 
 .clsPara{
