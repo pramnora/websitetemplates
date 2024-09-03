@@ -3,7 +3,7 @@
  YourName YourSubjectName Portfolio
 
  Created: Mon 02 Sep 2024 14:03 PM GMT
- Updated: Tue 03 Sep 2024 14:24 PM GMT
+ Updated: Tue 03 Sep 2024 18:07 PM GMT
 */
 
 /* --------------------------------------------------- */
@@ -60,7 +60,8 @@ nav, header, footer{
 
 /* --------------------------------------------------- */
 
-#idMenu{
+#idMenu a:hover{
+ background-color:silver;
 }
 
 #idWordPortfolio{
