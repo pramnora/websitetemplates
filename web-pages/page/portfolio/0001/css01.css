@@ -129,7 +129,10 @@ img.clsPic{
 }
 
 .clsNASLLetter{
+ border:1px solid black;
  font-weight:bold;
+ background-color:gray;
+ color:black;
 }
 
 .clsDateTimeStamp{
