@@ -83,6 +83,7 @@ nav, header, footer{
  background-color:silver;
  color:white;
  font-weight:bold;
+ border:1px solid yellow;
 }
 
 #idArtworks{
