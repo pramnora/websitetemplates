@@ -1,0 +1,43 @@
+/* 
+ CSS Stylesheet for my personal page... 
+
+ Created: Tue 19 Aug 2025 08:14 AM GMT
+ Updated: Tue 19 Aug 2025 08 14 AM GMT
+*/
+
+/* links */
+
+a:link{color:blue;text-decoration:none;}
+a:hover{background-color:white;color:red;text-decoration:underline;}
+a:active{color:orange;}
+a:visited{color:purple;}
+
+/* body */
+
+body{font-family:arial,verdana,sans-serif;margin:1cm;}
+
+/* multiple */
+
+nav,footer{text-align:center;}
+nav,header,main,footer{width:50%;margin:auto;padding:10px;}
+
+/* header */
+
+header{background-color:black;color:white;text-align:center;}
+
+/* nav */
+
+nav{border-radius:10px 10px 0px 0px;background-color:silver;}
+
+/* main */
+
+main{width:50%;margin:auto;background-color:rgba(0,0,0,0);border:1px solid black;}
+
+/* footer */
+
+footer{border-radius:0px 0px 10px 10px;background-color:gray;}
+
+/* classes */
+
+.clsPara{text-indent:1cm;}
+.clsDateTime{border-radius:10px;background-color:white;color:red;font-style:italic;}
