@@ -29,8 +29,8 @@ header{background-color:black;color:white;text-align:center;}
 
 nav{border-radius:10px 10px 0px 0px;background-color:silver;}
 
-nav>a:link{border:1px soild black;}
-nav>a:hover{border:1px solid white;}
+nav>a:link{background-color:grey;}
+nav>a:hover{background-color:white;}
 
 /* main */
 
