@@ -2,7 +2,7 @@
  CSS Stylesheet for my personal page... 
 
  Created: Tue 19 Aug 2025 08:14 AM GMT
- Updated: Thy 21 Aug 2025 04.13 AM GMT
+ Updated: Thy 21 Aug 2025 04.36 AM GMT
 */
 
 /* links */
@@ -42,5 +42,6 @@ footer{border-radius:0px 0px 10px 10px;background-color:gray;}
 
 /* classes */
 
+.clsSelected{background-color:red;}
 .clsPara{text-indent:1cm;}
 .clsDateTime{border-radius:10px;background-color:white;color:red;font-style:italic;}
