@@ -42,6 +42,6 @@ footer{border-radius:0px 0px 10px 10px;background-color:gray;}
 
 /* classes */
 
-.clsSelected{background-color:silver;border:1px solid white;padding:3px;}
+.clsSelected{background-color:black;color:white;border:1px solid white;padding:3px;}
 .clsPara{text-indent:1cm;}
 .clsDateTime{border-radius:10px;background-color:white;color:red;font-style:italic;}
