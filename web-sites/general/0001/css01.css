@@ -2,7 +2,7 @@
  CSS Stylesheet for my personal page... 
 
  Created: Tue 19 Aug 2025 08:14 AM GMT
- Updated: Thy 21 Aug 2025 03.58 AM GMT
+ Updated: Thy 21 Aug 2025 04.13 AM GMT
 */
 
 /* links */
@@ -29,8 +29,8 @@ header{background-color:black;color:white;text-align:center;}
 
 nav{border-radius:10px 10px 0px 0px;background-color:silver;}
 
-nav>a:link{background-color:grey;}
-nav>a:hover{background-color:white;}
+nav>a:link{background-color:silver;padding:3px;}
+nav>a:hover{background-color:white;padding:3px;}
 
 /* main */
 
